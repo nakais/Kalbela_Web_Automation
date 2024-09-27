@@ -51,7 +51,7 @@ KalbelaAutomation/
    pytest tests/ --alluredir=allure-results
    allure serve reports/
    ```
-## Test Case
+## Test Cases
 https://docs.google.com/spreadsheets/d/1A1j2_e93nCFaqvlUmUQeY-BJMfYPxpcVDHW-sJIOL-4/edit?usp=sharing
 
 ## Recording Video
