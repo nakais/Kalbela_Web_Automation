@@ -8,7 +8,8 @@ The following structure outlines the main directories and files:
 ```
 KalbelaAutomation/
 ├── page_objects/
-│   ├── __init__.py       # (This is important!)
+│   ├── __init__.py  
+│   ├── base_page.py       
 │   ├── top_section.py    # Your TopSection class is defined here
 │   ├── navigation_section.py  # Your NavigationSection class is defined here
 ├── tests/
